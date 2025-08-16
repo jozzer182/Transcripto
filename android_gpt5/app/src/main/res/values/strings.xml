@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Transcripto</string>
+    <string name="title_transcripto">Transcripto</string>
+    <string name="label_encrypt">Cifrar</string>
+    <string name="label_decrypt">Descifrar</string>
+    <string name="label_input_text">Texto de entrada</string>
+    <string name="label_shift">Desplazamiento (entero)</string>
+    <string name="label_key">Clave</string>
+    <string name="label_use_salt">Usar salt</string>
+    <string name="label_auto_salt">Generar automáticamente</string>
+    <string name="label_manual_salt">Ingresar manual</string>
+    <string name="btn_process">Procesar</string>
+    <string name="btn_clear">Limpiar</string>
+    <string name="label_result">Resultado</string>
+    <string name="btn_copy">Copiar</string>
+    <string name="btn_share">Compartir</string>
+    <string name="share_title">Compartir</string>
+    <string name="method_base64">Base64</string>
+    <string name="method_caesar">César</string>
+    <string name="method_vigenere">Vigenère</string>
+    <string name="method_xor">XOR</string>
+    <string name="error_input_required">La entrada no puede estar vacía</string>
+    <string name="error_key_required">La clave es requerida</string>
+    <string name="error_shift_required">El desplazamiento es requerido</string>
+</resources>

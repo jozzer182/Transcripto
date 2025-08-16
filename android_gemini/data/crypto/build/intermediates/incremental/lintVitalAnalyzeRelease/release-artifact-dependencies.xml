@@ -1,0 +1,32 @@
+<dependencies>
+  <compile
+      roots=":@@:domain,org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar,javax.inject:javax.inject:1@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name=":@@:domain"
+        simpleName=":"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="javax.inject:javax.inject:1@jar"
+        simpleName="javax.inject:javax.inject"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </compile>
+  <package
+      roots=":@@:domain,org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar,javax.inject:javax.inject:1@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name=":@@:domain"
+        simpleName=":"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="javax.inject:javax.inject:1@jar"
+        simpleName="javax.inject:javax.inject"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </package>
+</dependencies>

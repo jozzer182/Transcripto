@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.zarabandajose.transcripto.core.common-release-3:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.zarabandajose.transcripto.core.common-core-1.13.1-8:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.zarabandajose.transcripto.core.common-release-3:/layout-v21/notification_action.xml",
+        "source": "com.zarabandajose.transcripto.core.common-core-1.13.1-8:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.zarabandajose.transcripto.core.common-release-3:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.zarabandajose.transcripto.core.common-core-1.13.1-8:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.zarabandajose.transcripto.core.common-release-3:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.zarabandajose.transcripto.core.common-core-1.13.1-8:/layout-v21/notification_action_tombstone.xml"
+    }
+]

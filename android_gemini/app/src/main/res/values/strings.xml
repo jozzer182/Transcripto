@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Transcripto</string>
+    <string name="encrypt">Cifrar</string>
+    <string name="decrypt">Descifrar</string>
+    <string name="input_text">Texto de entrada</string>
+    <string name="output_text">Texto de salida</string>
+    <string name="key">Clave</string>
+    <string name="salt">Salt</string>
+    <string name="use_salt">Usar salt</string>
+    <string name="generate_salt">Generar salt</string>
+    <string name="process">Procesar</string>
+    <string name="copy">Copiar</string>
+    <string name="share">Compartir</string>
+    <string name="clear">Limpiar</string>
+    <string name="caesar">César</string>
+    <string name="base64">Base64</string>
+    <string name="vigenere">Vigenère</string>
+    <string name="xor">XOR</string>
+    <string name="key_validation_caesar">La clave debe ser un número entero.</string>
+    <string name="key_validation_vigenere">La clave no puede estar vacía.</string>
+    <string name="key_validation_xor">La clave no puede estar vacía.</string>
+</resources>

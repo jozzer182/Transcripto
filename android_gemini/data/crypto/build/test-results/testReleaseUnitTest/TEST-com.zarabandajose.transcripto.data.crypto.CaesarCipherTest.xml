@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-12T09:49:36.826Z" hostname="MAG" time="0.025">
+  <properties/>
+  <testcase name="decrypt with negative shift" classname="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" time="0.023"/>
+  <testcase name="decrypt with wrapping" classname="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" time="0.0"/>
+  <testcase name="decrypt with positive shift" classname="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" time="0.0"/>
+  <testcase name="decrypt with non-alphabetic characters" classname="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" time="0.0"/>
+  <testcase name="encrypt with non-alphabetic characters" classname="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" time="0.0"/>
+  <testcase name="encrypt with wrapping" classname="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" time="0.0"/>
+  <testcase name="encrypt with negative shift" classname="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" time="0.001"/>
+  <testcase name="encrypt with positive shift" classname="com.zarabandajose.transcripto.data.crypto.CaesarCipherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

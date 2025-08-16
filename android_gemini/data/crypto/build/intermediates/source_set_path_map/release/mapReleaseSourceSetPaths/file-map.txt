@@ -1,0 +1,7 @@
+com.zarabandajose.transcripto.data.crypto-pngs-0 C:\Code\Multi\Transcripto\android\data\crypto\build\generated\res\pngs\release
+com.zarabandajose.transcripto.data.crypto-resValues-1 C:\Code\Multi\Transcripto\android\data\crypto\build\generated\res\resValues\release
+com.zarabandajose.transcripto.data.crypto-mergeReleaseResources-2 C:\Code\Multi\Transcripto\android\data\crypto\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.zarabandajose.transcripto.data.crypto-mergeReleaseResources-3 C:\Code\Multi\Transcripto\android\data\crypto\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.zarabandajose.transcripto.data.crypto-release-4 C:\Code\Multi\Transcripto\android\data\crypto\build\intermediates\merged_res\release\mergeReleaseResources
+com.zarabandajose.transcripto.data.crypto-main-5 C:\Code\Multi\Transcripto\android\data\crypto\src\main\res
+com.zarabandajose.transcripto.data.crypto-release-6 C:\Code\Multi\Transcripto\android\data\crypto\src\release\res

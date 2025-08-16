@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Transcripto</string>
+    <string name="encrypt">Cifrar</string>
+    <string name="decrypt">Descifrar</string>
+    <string name="process">Procesar</string>
+    <string name="copy">Copiar</string>
+    <string name="share">Compartir</string>
+    <string name="clear">Limpiar</string>
+    <string name="input_text">Texto de entrada</string>
+    <string name="output_text">Resultado</string>
+    <string name="method">Método</string>
+    <string name="key">Clave</string>
+    <string name="shift">Desplazamiento</string>
+    <string name="use_salt">Usar salt</string>
+    <string name="generate_auto">Generar automáticamente</string>
+    <string name="enter_manual">Ingresar manual</string>
+    <string name="salt">Salt</string>
+    <string name="error">Error: %s</string>
+</resources>

@@ -1,0 +1,31 @@
+<libraries>
+  <library
+      name=":@@:data:crypto::debug"
+      jars="C:\Users\jlzdz\.gradle\caches\8.13\transforms\f935c52efe3f22d944b6394e81e01ebf\transformed\out\jars\classes.jar;C:\Users\jlzdz\.gradle\caches\8.13\transforms\f935c52efe3f22d944b6394e81e01ebf\transformed\out\jars\libs\R.jar"
+      resolved="Transcripto.data:crypto:unspecified"
+      folder="C:\Users\jlzdz\.gradle\caches\8.13\transforms\f935c52efe3f22d944b6394e81e01ebf\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":@@:domain"
+      jars="C:\Code\Multi\Transcripto\android\domain\build\libs\domain.jar"
+      resolved="::"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar"
+      jars="C:\Users\jlzdz\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.22\d6c44cd08d8f3f9bece8101216dbe6553365c6e3\kotlin-stdlib-1.9.22.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.9.22"/>
+  <library
+      name="javax.inject:javax.inject:1@jar"
+      jars="C:\Users\jlzdz\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+      resolved="javax.inject:javax.inject:1"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="C:\Users\jlzdz\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+</libraries>

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.zarabandajose.transcripto.core.ui-release-3:/drawable-v21/notification_action_background.xml",
+        "source": "com.zarabandajose.transcripto.core.ui-core-1.13.1-13:/drawable-v21/notification_action_background.xml"
+    }
+]

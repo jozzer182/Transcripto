@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.zarabandajose.transcripto.core.ui-release-3:/color/vector_tint_color.xml",
+        "source": "com.zarabandajose.transcripto.core.ui-ui-release-33:/color/vector_tint_color.xml"
+    },
+    {
+        "merged": "com.zarabandajose.transcripto.core.ui-release-3:/color/vector_tint_theme_color.xml",
+        "source": "com.zarabandajose.transcripto.core.ui-ui-release-33:/color/vector_tint_theme_color.xml"
+    }
+]

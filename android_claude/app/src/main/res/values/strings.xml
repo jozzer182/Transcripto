@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Transcripto</string>
+    
+    <!-- Pantalla principal -->
+    <string name="main_title">Transcripto</string>
+    <string name="encrypt_decrypt_title">Cifrado y Descifrado</string>
+    <string name="input_text_label">Texto a procesar</string>
+    <string name="input_text_placeholder">Ingrese el texto aquí</string>
+    <string name="mode_title">Modo</string>
+    <string name="encrypt_mode">Cifrar</string>
+    <string name="decrypt_mode">Descifrar</string>
+    <string name="cipher_method_title">Método de cifrado</string>
+    <string name="caesar_method">César</string>
+    <string name="base64_method">Base64</string>
+    <string name="vigenere_method">Vigenère</string>
+    <string name="xor_method">XOR</string>
+    <string name="key_label">Clave</string>
+    <string name="key_placeholder">Ingrese la clave</string>
+    <string name="shift_label">Desplazamiento</string>
+    <string name="shift_placeholder">Ej: 3</string>
+    <string name="process_button">Procesar</string>
+    <string name="clear_button">Limpiar</string>
+    <string name="result_title">Resultado</string>
+    <string name="copy_button">Copiar</string>
+    <string name="share_button">Compartir</string>
+    
+    <!-- Configuración de salt -->
+    <string name="salt_config_title">Configuración de Salt</string>
+    <string name="use_salt">Usar salt</string>
+    <string name="auto_generate_salt">Generar automáticamente</string>
+    <string name="manual_salt">Ingresar manual</string>
+    <string name="manual_salt_label">Salt manual</string>
+    <string name="manual_salt_placeholder">Ingrese el salt</string>
+    
+    <!-- Mensajes de estado -->
+    <string name="operation_success">Operación completada exitosamente</string>
+    <string name="invalid_configuration">Configuración inválida. Verifique los parámetros.</string>
+    
+    <!-- Accesibilidad -->
+    <string name="input_text_content_description">Campo de texto de entrada</string>
+    <string name="result_text_content_description">Texto resultado</string>
+    <string name="copy_content_description">Copiar resultado al portapapeles</string>
+    <string name="share_content_description">Compartir resultado</string>
+    <string name="clear_content_description">Limpiar todos los campos</string>
+    <string name="salt_toggle_content_description">Activar o desactivar uso de salt</string>
+    
+    <!-- Compartir -->
+    <string name="share_subject">Resultado de Transcripto</string>
+    <string name="share_chooser_title">Compartir resultado</string>
+</resources>
