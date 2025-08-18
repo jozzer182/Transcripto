@@ -1,0 +1,23 @@
+name: testing
+description: Testing utilities for Transcripto
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  core_common:
+    path: ../core_common
+  domain:
+    path: ../domain
+  data_crypto:
+    path: ../data_crypto
+
+dev_dependencies:
+  flutter_lints: ^5.0.0

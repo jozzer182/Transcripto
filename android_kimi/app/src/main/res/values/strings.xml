@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Transcripto</string>
+    <string name="copy_output_button">Copy Output</string>
+    <string name="share_output_button">Share</string>
+    <string name="copy_to_input_button">Copy to Input</string>
+    <string name="error_empty_text">Text cannot be empty</string>
+    <string name="error_empty_key">Key cannot be empty</string>
+    <string name="error_invalid_key">Invalid key</string>
+    <string name="error_unsupported_method">Unsupported cipher method</string>
+    <string name="error_encryption_failed">Encryption failed</string>
+    <string name="error_decryption_failed">Decryption failed</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="share_title">Share Result</string>
+    <string name="share_chooser">Share via</string>
+    
+    <!-- Accessibility -->
+    <string name="input_text_description">Input field for text to encrypt or decrypt</string>
+    <string name="output_text_description">Output field showing encryption/decryption result</string>
+    <string name="key_field_description">Field to enter encryption key</string>
+    <string name="method_selector_description">Selector to choose encryption method</string>
+    <string name="salt_switch_description">Switch to enable or disable salt usage</string>
+    <string name="encrypt_button_description">Button to encrypt input text</string>
+    <string name="decrypt_button_description">Button to decrypt input text</string>
+    <string name="clear_button_description">Button to clear all fields</string>
+    <string name="copy_output_description">Button to copy result to clipboard</string>
+    <string name="share_output_description">Button to share the result</string>
+    <string name="copy_to_input_description">Button to copy result to input field</string>
+    
+    <!-- Icon descriptions -->
+    <string name="edit_icon_desc">Edit</string>
+    <string name="key_icon_desc">Key</string>
+    <string name="encrypt_icon_desc">Encrypt</string>
+    <string name="decrypt_icon_desc">Decrypt</string>
+    <string name="clear_icon_desc">Clear</string>
+    <string name="use_output_icon_desc">Use output</string>
+    <string name="share_result_title">Share result</string>
+</resources>

@@ -1,0 +1,51 @@
+name: transcripto
+description: "Aplicación de cifrado y descifrado de texto con múltiples algoritmos"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  # State management
+  flutter_riverpod: ^2.6.1
+  
+  # Platform features
+  share_plus: ^10.1.2
+  
+  # UI enhancements
+  dynamic_color: ^1.7.0
+  
+  # Local packages
+  core_ui:
+    path: packages/core_ui
+  core_common:
+    path: packages/core_common
+  domain:
+    path: packages/domain
+  data_crypto:
+    path: packages/data_crypto
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  integration_test:
+    sdk: flutter
+  
+  # Testing utilities
+  testing:
+    path: packages/testing
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/

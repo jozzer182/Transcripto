@@ -1,0 +1,16 @@
+com.transcripto.domain-pngs-0 C:\Code\Multi\Transcripto\android_kimi\domain\build\generated\res\pngs\release
+com.transcripto.domain-resValues-1 C:\Code\Multi\Transcripto\android_kimi\domain\build\generated\res\resValues\release
+com.transcripto.domain-mergeReleaseResources-2 C:\Code\Multi\Transcripto\android_kimi\domain\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.transcripto.domain-mergeReleaseResources-3 C:\Code\Multi\Transcripto\android_kimi\domain\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.transcripto.domain-release-4 C:\Code\Multi\Transcripto\android_kimi\domain\build\intermediates\merged_res\release\mergeReleaseResources
+com.transcripto.domain-main-5 C:\Code\Multi\Transcripto\android_kimi\domain\src\main\res
+com.transcripto.domain-release-6 C:\Code\Multi\Transcripto\android_kimi\domain\src\release\res
+com.transcripto.domain-activity-1.5.1-7 C:\Users\jlzdz\.gradle\caches\8.13\transforms\036a4d4950f1e1a4951839b9c7655c32\transformed\activity-1.5.1\res
+com.transcripto.domain-savedstate-1.2.0-8 C:\Users\jlzdz\.gradle\caches\8.13\transforms\270245201782cab3db01f05ef3d92614\transformed\savedstate-1.2.0\res
+com.transcripto.domain-lifecycle-viewmodel-savedstate-2.5.1-9 C:\Users\jlzdz\.gradle\caches\8.13\transforms\599eaa1a452f2c77077c6d23088e9336\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.transcripto.domain-core-1.8.0-10 C:\Users\jlzdz\.gradle\caches\8.13\transforms\6e96968bb10c1913deda7f7977ac4481\transformed\core-1.8.0\res
+com.transcripto.domain-fragment-1.5.1-11 C:\Users\jlzdz\.gradle\caches\8.13\transforms\88b45c8fb03aeb9f86d4f4a9acc9e8e6\transformed\fragment-1.5.1\res
+com.transcripto.domain-lifecycle-runtime-2.5.1-12 C:\Users\jlzdz\.gradle\caches\8.13\transforms\b274328e55660cd50453e77f55ae48d0\transformed\lifecycle-runtime-2.5.1\res
+com.transcripto.domain-annotation-experimental-1.1.0-13 C:\Users\jlzdz\.gradle\caches\8.13\transforms\b9d27735cf90d9b348d161d39aa07c84\transformed\annotation-experimental-1.1.0\res
+com.transcripto.domain-lifecycle-livedata-core-2.5.1-14 C:\Users\jlzdz\.gradle\caches\8.13\transforms\c467ebfe0b9ca85106f719a10776a6e8\transformed\lifecycle-livedata-core-2.5.1\res
+com.transcripto.domain-lifecycle-viewmodel-2.5.1-15 C:\Users\jlzdz\.gradle\caches\8.13\transforms\e7e81b92bb33a5779a14a8b26c3e63a3\transformed\lifecycle-viewmodel-2.5.1\res

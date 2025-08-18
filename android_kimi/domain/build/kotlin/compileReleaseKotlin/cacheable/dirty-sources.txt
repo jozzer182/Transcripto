@@ -1,0 +1,10 @@
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\cipher\CipherMethod.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\repository\SaltProvider.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\usecase\DecryptText.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\usecase\DetectAndParseEnvelope.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\usecase\EncryptText.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\repository\EnvelopeParser.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\usecase\GenerateSalt.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\cipher\CipherParams.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\repository\CipherMethod.kt
+C:\Code\Multi\Transcripto\android_kimi\domain\src\main\java\com\transcripto\domain\model\CipherMethod.kt

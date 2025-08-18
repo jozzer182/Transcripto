@@ -1,0 +1,79 @@
+{
+    "@@locale": "es",
+    "appTitle": "Transcripto",
+    "@appTitle": {
+        "description": "El título de la aplicación"
+    },
+    "encrypt": "Cifrar",
+    "@encrypt": {
+        "description": "Texto para cifrar"
+    },
+    "decrypt": "Descifrar",
+    "@decrypt": {
+        "description": "Texto para descifrar"
+    },
+    "inputLabel": "Texto de entrada",
+    "@inputLabel": {
+        "description": "Etiqueta para el campo de entrada de texto"
+    },
+    "inputHint": "Introduce el texto a cifrar o descifrar",
+    "@inputHint": {
+        "description": "Texto de ayuda para el campo de entrada"
+    },
+    "process": "Procesar",
+    "@process": {
+        "description": "Botón para procesar el texto"
+    },
+    "copy": "Copiar",
+    "@copy": {
+        "description": "Botón para copiar el resultado"
+    },
+    "share": "Compartir",
+    "@share": {
+        "description": "Botón para compartir el resultado"
+    },
+    "clear": "Limpiar",
+    "@clear": {
+        "description": "Botón para limpiar el contenido"
+    },
+    "result": "Resultado",
+    "@result": {
+        "description": "Etiqueta para el resultado"
+    },
+    "useSalt": "Usar salt",
+    "@useSalt": {
+        "description": "Etiqueta para activar el uso de salt"
+    },
+    "generateSalt": "Generar",
+    "@generateSalt": {
+        "description": "Botón para generar salt automáticamente"
+    },
+    "manualSalt": "Manual",
+    "@manualSalt": {
+        "description": "Opción para introducir salt manualmente"
+    },
+    "saltValue": "Salt",
+    "@saltValue": {
+        "description": "Etiqueta para el valor del salt"
+    },
+    "key": "Clave",
+    "@key": {
+        "description": "Etiqueta para la clave de cifrado"
+    },
+    "shift": "Desplazamiento",
+    "@shift": {
+        "description": "Etiqueta para el desplazamiento de César"
+    },
+    "copiedToClipboard": "Copiado al portapapeles",
+    "@copiedToClipboard": {
+        "description": "Mensaje cuando se copia al portapapeles"
+    },
+    "errorOccurred": "Ha ocurrido un error",
+    "@errorOccurred": {
+        "description": "Mensaje de error genérico"
+    },
+    "success": "Éxito",
+    "@success": {
+        "description": "Mensaje de éxito"
+    }
+}

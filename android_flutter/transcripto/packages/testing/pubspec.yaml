@@ -1,0 +1,12 @@
+name: testing
+description: Shared testing utilities for Transcripto
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  test: ^1.25.0
+  flutter_test:
+    sdk: flutter

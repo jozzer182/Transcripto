@@ -1,0 +1,36 @@
+name: transcripto
+description: "Transcripto: cifrar/descifrar texto con Base64, César, Vigenère y XOR."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  flutter_riverpod: ^2.5.1
+  dynamic_color: ^1.7.0
+  share_plus: ^10.0.2
+  # Internal packages
+  core_common:
+    path: packages/core_common
+  core_ui:
+    path: packages/core_ui
+  domain:
+    path: packages/domain
+  data_crypto:
+    path: packages/data_crypto
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  test: ^1.25.0
+
+flutter:
+  uses-material-design: true
+  generate: true

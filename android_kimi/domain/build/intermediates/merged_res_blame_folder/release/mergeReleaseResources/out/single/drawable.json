@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.transcripto.domain-release-3:/drawable/notification_bg.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.transcripto.domain-release-3:/drawable/notification_icon_background.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.transcripto.domain-release-3:/drawable/notification_bg_low.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.transcripto.domain-release-3:/drawable/notification_tile_bg.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/drawable/notification_tile_bg.xml"
+    }
+]

@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml:2:13-83
+INJECTED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml:2:13-83
+	package
+		INJECTED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml
+	xmlns:android
+		ADDED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml:2:23-81
+uses-sdk
+INJECTED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml reason: use-sdk injection requested
+INJECTED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml
+INJECTED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml
+	android:targetSdkVersion
+		INJECTED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml
+	android:minSdkVersion
+		INJECTED from C:\Code\Multi\Transcripto\android_kimi\data\crypto\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6011381252705158228.xml

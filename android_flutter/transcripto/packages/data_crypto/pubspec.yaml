@@ -1,0 +1,14 @@
+name: data_crypto
+description: Crypto implementations for Transcripto
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  domain:
+    path: ../domain
+  core_common:
+    path: ../core_common
+

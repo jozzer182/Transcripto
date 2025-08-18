@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.transcripto.domain-release-3:/layout/notification_template_part_chronometer.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.transcripto.domain-release-3:/layout/custom_dialog.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.transcripto.domain-release-3:/layout/notification_template_part_time.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/layout/notification_template_part_time.xml"
+    }
+]

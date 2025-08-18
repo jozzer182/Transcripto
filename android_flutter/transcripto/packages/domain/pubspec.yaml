@@ -1,0 +1,12 @@
+name: domain
+description: Domain layer for Transcripto (contracts and models)
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  core_common:
+    path: ../core_common
+

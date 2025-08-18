@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.transcripto.domain-release-3:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.transcripto.domain-release-3:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.transcripto.domain-release-3:/layout-v21/notification_action.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.transcripto.domain-release-3:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.transcripto.domain-core-1.8.0-9:/layout-v21/notification_template_icon_group.xml"
+    }
+]

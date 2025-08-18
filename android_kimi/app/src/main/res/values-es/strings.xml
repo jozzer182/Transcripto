@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Transcripto</string>
+    <string name="input_text_hint">Ingrese el texto a procesar</string>
+    <string name="key_hint">Clave</string>
+    <string name="method_hint">Método de cifrado</string>
+    <string name="use_salt">Usar sal</string>
+    <string name="encrypt_button">Cifrar</string>
+    <string name="decrypt_button">Descifrar</string>
+    <string name="clear_button">Limpiar</string>
+    <string name="copy_output_button">Copiar resultado</string>
+    <string name="share_output_button">Compartir</string>
+    <string name="copy_to_input_button">Copiar a entrada</string>
+    <string name="output_text_hint">Resultado aparecerá aquí</string>
+    <string name="envelope_detected">Formato de sobre detectado</string>
+    <string name="error_empty_text">El texto no puede estar vacío</string>
+    <string name="error_empty_key">La clave no puede estar vacía</string>
+    <string name="error_invalid_key">Clave inválida</string>
+    <string name="error_unsupported_method">Método no soportado</string>
+    <string name="error_encryption_failed">Error al cifrar</string>
+    <string name="error_decryption_failed">Error al descifrar</string>
+    <string name="copied_to_clipboard">Copiado al portapapeles</string>
+    <string name="share_title">Compartir resultado</string>
+    <string name="share_chooser">Compartir vía</string>
+    
+    <!-- Accessibility -->
+    <string name="input_text_description">Campo de entrada para el texto a cifrar o descifrar</string>
+    <string name="output_text_description">Campo de salida que muestra el resultado del cifrado o descifrado</string>
+    <string name="key_field_description">Campo para ingresar la clave de cifrado</string>
+    <string name="method_selector_description">Selector para elegir el método de cifrado</string>
+    <string name="salt_switch_description">Interruptor para habilitar o deshabilitar el uso de sal</string>
+    <string name="encrypt_button_description">Botón para cifrar el texto de entrada</string>
+    <string name="decrypt_button_description">Botón para descifrar el texto de entrada</string>
+    <string name="clear_button_description">Botón para limpiar todos los campos</string>
+    <string name="copy_output_description">Botón para copiar el resultado al portapapeles</string>
+    <string name="share_output_description">Botón para compartir el resultado</string>
+    <string name="copy_to_input_description">Botón para copiar el resultado al campo de entrada</string>
+    
+    <!-- Icon descriptions -->
+    <string name="edit_icon_desc">Editar</string>
+    <string name="key_icon_desc">Clave</string>
+    <string name="encrypt_icon_desc">Cifrar</string>
+    <string name="decrypt_icon_desc">Descifrar</string>
+    <string name="clear_icon_desc">Limpiar</string>
+    <string name="use_output_icon_desc">Usar resultado</string>
+    <string name="share_result_title">Compartir resultado</string>
+</resources>

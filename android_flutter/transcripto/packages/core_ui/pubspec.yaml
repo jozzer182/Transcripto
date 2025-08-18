@@ -1,0 +1,15 @@
+name: core_ui
+description: Shared UI components and theming for Transcripto
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dynamic_color: ^1.7.0
+
+flutter:
+  uses-material-design: true
