@@ -1,0 +1,230 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.CoreUI-x86_64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/sources",
+      "importPath" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Resources/Colors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Styles/AppStyles.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Views/ShareSheet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CoreUI",
+      "moduleOutputPath" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/Modules/CoreUI.swiftmodule",
+      "objects" : [
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors.swift.o",
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles.swift.o",
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j6",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/CoreUI-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "coreui"
+      ],
+      "outputFileMapPath" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/Modules/CoreUI.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Resources/Colors.swift",
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Styles/AppStyles.swift",
+        "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Views/ShareSheet.swift"
+      ],
+      "tempsPath" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "CoreUI" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "CoreUI",
+      "-package-name",
+      "coreui",
+      "-incremental",
+      "-c",
+      "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Resources/Colors.swift",
+      "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Styles/AppStyles.swift",
+      "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Views/ShareSheet.swift",
+      "-I",
+      "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/Modules",
+      "-target",
+      "x86_64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j6",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/CoreUI-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "coreui",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "CoreUI" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Resources/Colors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Styles/AppStyles.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Views/ShareSheet.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/sources"
+    },
+    "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

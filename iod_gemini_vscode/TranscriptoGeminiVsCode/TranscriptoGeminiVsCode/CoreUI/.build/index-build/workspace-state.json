@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "corecommon",
+          "kind" : "fileSystem",
+          "location" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreCommon",
+          "name" : "CoreCommon"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreCommon"
+        },
+        "subpath" : "corecommon"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}
