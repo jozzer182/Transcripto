@@ -1,0 +1,4 @@
+module Domain {
+    header "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/Domain-Swift.h"
+    requires objc
+}

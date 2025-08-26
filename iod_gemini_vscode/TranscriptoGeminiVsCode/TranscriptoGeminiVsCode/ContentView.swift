@@ -5,20 +5,5 @@
 //  Created by JOSE ZARABANDA on 8/21/25.
 //
 
-import SwiftUI
-
-struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
-
-#Preview {
-    ContentView()
-}
+// Este archivo ya no es necesario, su contenido ha sido reemplazado por TranscriptoView.swift
+// Puedes eliminarlo si lo deseas.

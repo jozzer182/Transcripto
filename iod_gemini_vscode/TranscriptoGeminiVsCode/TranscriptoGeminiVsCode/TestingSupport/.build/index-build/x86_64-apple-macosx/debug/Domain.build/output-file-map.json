@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/master.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherError.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherError.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherError.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherError~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherError.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherMethod.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherMethod.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherMethod.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherMethod.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherParams.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherParams.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherParams.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherParams~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/CipherParams.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Protocols/SaltProvider.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/SaltProvider.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/SaltProvider.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/SaltProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/SaltProvider.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/DecryptTextUseCase.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/DecryptTextUseCase.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/DecryptTextUseCase.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/DecryptTextUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/DecryptTextUseCase.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/EncryptTextUseCase.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/EncryptTextUseCase.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/EncryptTextUseCase.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/EncryptTextUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/EncryptTextUseCase.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/GenerateSaltUseCase.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/GenerateSaltUseCase.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/GenerateSaltUseCase.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/GenerateSaltUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/GenerateSaltUseCase.swiftdeps"
+  }
+}

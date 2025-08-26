@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoTests.build/master.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/Tests/DataCryptoTests/CipherTests.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoTests.build/CipherTests.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoTests.build/CipherTests.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoTests.build/CipherTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoTests.build/CipherTests.swiftdeps"
+  }
+}

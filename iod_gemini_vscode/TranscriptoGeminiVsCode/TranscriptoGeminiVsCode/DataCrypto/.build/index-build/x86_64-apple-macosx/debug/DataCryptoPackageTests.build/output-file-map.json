@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoPackageTests.build/master.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoPackageTests.build/runner.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCryptoPackageTests.build/runner.swiftdeps"
+  }
+}

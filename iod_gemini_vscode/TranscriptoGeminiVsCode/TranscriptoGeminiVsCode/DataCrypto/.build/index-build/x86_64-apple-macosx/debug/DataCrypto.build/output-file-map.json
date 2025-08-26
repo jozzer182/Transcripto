@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/master.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/Sources/DataCrypto/CipherFactory.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/CipherFactory.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/CipherFactory.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/CipherFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/CipherFactory.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/Sources/DataCrypto/Ciphers/Base64Codec.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/Base64Codec.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/Base64Codec.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/Base64Codec~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/Base64Codec.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/Sources/DataCrypto/Ciphers/CaesarCipher.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/CaesarCipher.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/CaesarCipher.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/CaesarCipher~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/CaesarCipher.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/Sources/DataCrypto/Ciphers/VigenereCipher.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/VigenereCipher.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/VigenereCipher.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/VigenereCipher~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/VigenereCipher.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/Sources/DataCrypto/Ciphers/XorCipher.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/XorCipher.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/XorCipher.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/XorCipher~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/XorCipher.swiftdeps"
+  },
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/Sources/DataCrypto/Providers/SecureSaltProvider.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/SecureSaltProvider.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/SecureSaltProvider.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/SecureSaltProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/DataCrypto/.build/index-build/x86_64-apple-macosx/debug/DataCrypto.build/SecureSaltProvider.swiftdeps"
+  }
+}

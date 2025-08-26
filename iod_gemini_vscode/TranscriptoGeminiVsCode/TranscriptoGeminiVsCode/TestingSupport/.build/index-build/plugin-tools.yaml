@@ -1,0 +1,43 @@
+client:
+  name: basic
+  file-system: device-agnostic
+tools: {}
+targets:
+  "Domain-x86_64-apple-macosx15.0-debug.module": ["<Domain-x86_64-apple-macosx15.0-debug.module>"]
+  "PackageStructure": ["<PackageStructure>"]
+  "main": []
+  "test": []
+default: "main"
+commands:
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/sources":
+    tool: write-auxiliary-file
+    inputs: ["<sources-file-list>","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherError.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherMethod.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherParams.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Protocols/SaltProvider.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/DecryptTextUseCase.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/EncryptTextUseCase.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/GenerateSaltUseCase.swift"]
+    outputs: ["/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/sources"]
+    description: "Write auxiliary file /Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/sources"
+
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt":
+    tool: write-auxiliary-file
+    inputs: ["<swift-get-version>","/Library/Developer/CommandLineTools/usr/bin/swiftc"]
+    outputs: ["/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"]
+    always-out-of-date: "true"
+    description: "Write auxiliary file /Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+
+  "<Domain-x86_64-apple-macosx15.0-debug.module>":
+    tool: phony
+    inputs: ["/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Modules/Domain.swiftmodule"]
+    outputs: ["<Domain-x86_64-apple-macosx15.0-debug.module>"]
+
+  "C.Domain-x86_64-apple-macosx15.0-debug.module":
+    tool: shell
+    inputs: ["/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherError.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherMethod.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Models/CipherParams.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/Protocols/SaltProvider.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/DecryptTextUseCase.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/EncryptTextUseCase.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/Domain/Sources/Domain/UseCases/GenerateSaltUseCase.swift","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/sources"]
+    outputs: ["/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Modules/Domain.swiftmodule"]
+    description: "Compiling Swift Module 'Domain' (7 sources)"
+    args: ["/Library/Developer/CommandLineTools/usr/bin/swiftc","-module-name","Domain","-emit-dependencies","-emit-module","-emit-module-path","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Modules/Domain.swiftmodule","-output-file-map","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/output-file-map.json","-parse-as-library","-incremental","@/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/sources","-I","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Modules","-target","x86_64-apple-macosx10.13","-enable-batch-mode","-index-store-path","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/index/store","-Onone","-enable-testing","-j6","-DSWIFT_PACKAGE","-DDEBUG","-module-cache-path","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/ModuleCache","-parseable-output","-parse-as-library","-emit-objc-header","-emit-objc-header-path","/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/TestingSupport/.build/index-build/x86_64-apple-macosx/debug/Domain.build/Domain-Swift.h","-swift-version","5","-Xfrontend","-experimental-lazy-typecheck","-Xfrontend","-experimental-skip-all-function-bodies","-Xfrontend","-experimental-allow-module-with-compiler-errors","-Xfrontend","-empty-abi-descriptor","-F","/Library/Developer/CommandLineTools/Library/Developer/Frameworks","-sdk","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-g","-Xcc","-isysroot","-Xcc","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-Xcc","-fPIC","-Xcc","-g","-package-name","domain"]
+
+  "PackageStructure":
+    tool: package-structure-tool
+    inputs: []
+    outputs: ["<PackageStructure>"]
+    description: "Planning build"
+    allow-missing-inputs: true
+

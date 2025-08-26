@@ -1,23 +1,23 @@
 {
   "": {
-    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/master.swiftdeps"
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/master.swiftdeps"
   },
-  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Resources/Colors.swift": {
-    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors.d",
-    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors.swift.o",
-    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors~partial.swiftmodule",
-    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors.swiftdeps"
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/Sources/CoreUI/Resources/Colors.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/Colors.swiftdeps"
   },
-  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Styles/AppStyles.swift": {
-    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles.d",
-    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles.swift.o",
-    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles~partial.swiftmodule",
-    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles.swiftdeps"
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/Sources/CoreUI/Styles/AppStyles.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/AppStyles.swiftdeps"
   },
-  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/Sources/CoreUI/Views/ShareSheet.swift": {
-    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet.d",
-    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet.swift.o",
-    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet~partial.swiftmodule",
-    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet.swiftdeps"
+  "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/Sources/CoreUI/Views/ShareSheet.swift": {
+    "dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet.d",
+    "object": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet.swift.o",
+    "swiftmodule": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet~partial.swiftmodule",
+    "swift-dependencies": "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/ShareSheet.swiftdeps"
   }
 }

@@ -9,12 +9,12 @@
         "packageRef" : {
           "identity" : "corecommon",
           "kind" : "fileSystem",
-          "location" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreCommon",
+          "location" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreCommon",
           "name" : "CoreCommon"
         },
         "state" : {
           "name" : "fileSystem",
-          "path" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreCommon"
+          "path" : "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreCommon"
         },
         "subpath" : "corecommon"
       }

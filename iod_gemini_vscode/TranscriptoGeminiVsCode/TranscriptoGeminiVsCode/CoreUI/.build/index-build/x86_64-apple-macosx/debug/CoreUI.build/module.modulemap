@@ -1,4 +1,4 @@
 module CoreUI {
-    header "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/Packages/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/CoreUI-Swift.h"
+    header "/Users/josezarabanda/code/multi/Transcripto/iod_gemini_vscode/TranscriptoGeminiVsCode/TranscriptoGeminiVsCode/CoreUI/.build/index-build/x86_64-apple-macosx/debug/CoreUI.build/CoreUI-Swift.h"
     requires objc
 }
