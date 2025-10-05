@@ -1,0 +1,7 @@
+--swiftversion 5.9
+--ifdef noindent
+--commas always
+--stripunusedargs closure-only
+--self insert
+--indent 4
+--maxwidth 150

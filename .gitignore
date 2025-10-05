@@ -1,6 +1,8 @@
 .DS_Store
-/.build
+**/.build/
 /Packages
+!ios_gpt5/**/Packages
+!ios_gpt5/**/.build
 xcuserdata/
 DerivedData/
 .swiftpm/configuration/registries.json
