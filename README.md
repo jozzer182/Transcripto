@@ -48,49 +48,57 @@ Cada plataforma mantiene esta organización de acuerdo con sus prácticas nativa
 ## 🛠️ Tecnologías utilizadas
 
 ### Android
-- **Kotlin**  
-- **Jetpack Compose + Material 3**  
-- **Hilt** para DI  
-- **JUnit5** + **Compose Testing**  
+
+- **Kotlin**
+- **Jetpack Compose + Material 3**
+- **Hilt** para DI
+- **JUnit5** + **Compose Testing**
 
 ### iOS
-- **Swift**  
-- **SwiftUI + MVVM**  
-- **XCTest**  
-- **SwiftLint/SwiftFormat**  
+
+- **Swift**
+- **SwiftUI + MVVM**
+- **XCTest**
+- **SwiftLint/SwiftFormat**
 
 ### Flutter
-- **Flutter 3.x**  
-- **Dart**  
-- **Material Design**  
-- Multiplataforma (Android, iOS, Web, Desktop)  
+
+- **Flutter 3.x**
+- **Dart**
+- **Material Design**
+- Multiplataforma (Android, iOS, Web, Desktop)
 
 ### Inteligencias Artificiales usadas en el desarrollo
+
 El diseño, arquitectura y documentación se apoyó con múltiples modelos de IA de última generación:
-- **GPT‑5**  
-- **Claude Sonnet 4**  
-- **Gemini 2.5 Pro**  
-- **Grok 3**  
-- **Kimi**  
-- **DeepSeek 3**  
+
+- **GPT‑5**
+- **Claude Sonnet 4**
+- **Gemini 2.5 Pro**
+- **Grok 3**
+- **Kimi**
+- **DeepSeek 3**
 
 ---
 
 ## 📦 Instalación y ejecución
 
 ### Android
+
 ```bash
 # Abrir en Android Studio o compilar desde terminal
 ./gradlew assembleDebug
 ```
 
 ### iOS
+
 ```bash
 # Compilar y probar con Xcode desde terminal
 ./scripts/build-and-test.sh
 ```
 
 ### Flutter
+
 ```bash
 # Ejecutar en Flutter
 flutter pub get
@@ -102,8 +110,9 @@ flutter run
 ## 🧪 Pruebas
 
 Cada implementación incluye tests de:
+
 - **Ida y vuelta** (cifrar → descifrar).
-- **Casos borde** (texto vacío, Unicode, claves inválidas).  
+- **Casos borde** (texto vacío, Unicode, claves inválidas).
 - **Golden tests** para verificar César con distintos desplazamientos.
 
 ```bash
@@ -121,9 +130,9 @@ flutter test
 
 ## 📱 Diseño de interfaz
 
-- Interfaz **minimalista, moderna y accesible**.  
-- Basada en **Material Design 3** (Android/Flutter) y **Human Interface Guidelines** (iOS).  
-- Compatible con **Dark/Light mode**.  
+- Interfaz **minimalista, moderna y accesible**.
+- Basada en **Material Design 3** (Android/Flutter) y **Human Interface Guidelines** (iOS).
+- Compatible con **Dark/Light mode**.
 - Animaciones sutiles y soporte **VoiceOver/TalkBack**.
 
 ---
