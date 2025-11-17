@@ -4,6 +4,12 @@ Transcripto es una aplicación multiplataforma que permite **cifrar y descifrar 
 El proyecto tiene implementaciones tanto en **Android (Kotlin/Jetpack Compose)**, **iOS (Swift/SwiftUI)**, como en **Flutter** para una solución multiplataforma unificada.  
 Además, el desarrollo fue asistido con **inteligencias artificiales de última generación** para acelerar el diseño, la arquitectura y la calidad del código.
 
+## 📲 Descargar
+
+La aplicación está disponible para iOS en la App Store:
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/transcripto/id6752245146)
+
 ---
 
 ## 🚀 Características
